@@ -1,5 +1,27 @@
-Hello Git and Github
+# Markdown Cheat Sheet
 
-This is me making a change inside of VSCode
+# H1
+## H2
+### H3
 
-Extra changes
+**bold text**
+
+*italicized text*
+
+> blockquote
+
+1. First item
+2. Second item
+3. Third item
+
+- First item
+- Second item
+- Third item
+
+`code`
+
+---
+
+[title](https://www.example.com)
+
+![alt text](image.jpg)
