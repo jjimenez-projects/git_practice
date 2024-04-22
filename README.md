@@ -27,3 +27,8 @@ _italicized text_
 [title](https://www.example.com)
 
 ![alt text](image.jpg)
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
